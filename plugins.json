@@ -1,0 +1,13 @@
+[
+  {
+    "internalName": "fodasse",
+    "hash": "40fd7e6465592540700c6880e85d9db293c54e5d",
+    "size": 2322,
+    "plugins": [
+      "com.example.ExamplePlugin"
+    ],
+    "displayName": "Teste",
+    "description": "",
+    "provider": "fodasse"
+  }
+]
